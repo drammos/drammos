@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jrammos@outlook.com.gr**
 
-- ⚡ Fun fact **I walking with friends. You’ll find me often at the gym..**
+- ⚡ Fun fact **I like walking with friends. You’ll find me often at the gym..**
 
 <br>
 
