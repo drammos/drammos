@@ -20,7 +20,7 @@
 
 📊 **My last project:**
 
-**The TicTacToe game, you can to see [here](https://github.com/DimitrisRammos/TicTacToe).**
+**The TicTacToe game, you can see it [here](https://github.com/DimitrisRammos/TicTacToe).**
 
 <br>
 
