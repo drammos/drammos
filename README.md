@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am a Associate Software Engineer, as a Backend Developer, using Rust.
+- 🔭 I am a Associate Software Engineer at **[Wappier](https://github.com/wappier)**, as a Backend Developer, using Rust.
 
 - :mortar_board: I’m thrird year undergraduate at  **[DIT](https://www.di.uoa.gr/)** 
 
