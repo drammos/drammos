@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- :mortar_board: I’m thrird year undergraduate at  **[DIT](https://www.di.uoa.gr/)**
+- 🔭 I am a Associate Software Engineer, as a Backend Developer, using Rust.
 
-- 🔭 I am a Associate Software Engineer, as a Backend Developer, using Rust. 
+- :mortar_board: I’m thrird year undergraduate at  **[DIT](https://www.di.uoa.gr/)** 
 
 - 🌱 I’m currently learning **Rust Programming Language.**
 
