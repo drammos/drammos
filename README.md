@@ -6,9 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m thrird year undergraduate at  **[DIT](https://www.di.uoa.gr/)**
+- :mortar_board: I’m thrird year undergraduate at  **[DIT](https://www.di.uoa.gr/)**
 
-- 🌱 I’m currently learning **Databases.**
+- 🔭 I am a Associate Software Engineer, as a Backend Developer, using Rust. 
+
+- 🌱 I’m currently learning **Rust Programming Language.**
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/DimitrisRammos?tab=repositories)**
 
@@ -20,7 +22,7 @@
 
 📊 **My last project:**
 
-**The TicTacToe game, you can see it [here](https://github.com/DimitrisRammos/TicTacToe).**
+**The DataBase Project, you can see it [here](https://github.com/DimitrisRammos/DataBaseHashing).**
 
 <br>
 
