@@ -29,7 +29,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png"/></a>
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" target="_blank"></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/40px-C_Programming_Language.svg.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/40px-ISO_C%2B%2B_Logo.svg.png"/> </a> 
