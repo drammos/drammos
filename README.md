@@ -22,7 +22,7 @@
 
 📊 **My last project:**
 
-**The DataBase Project, you can see it [here](https://github.com/DimitrisRammos/DataBaseHashing).**
+**The DataBase Project, you can see it [here](https://github.com/drammos/DataBaseHashing).**
 
 <br>
 
