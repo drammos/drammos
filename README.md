@@ -42,8 +42,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <img alt="Dimitris Rammos Github Stats" src="https://github-readme-stats.vercel.app/api?username=DimitrisRammos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrisRammos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Dimitris Rammos Github Stats" src="https://github-readme-stats.vercel.app/api?username=drammos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drammos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
 
 ## Connect with me:
