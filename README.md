@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Rust Programming Language.**
 
-- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/DimitrisRammos?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/drammos?tab=repositories)**
 
 - 📫 How to reach me **jrammos@outlook.com.gr**
 
