@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am a Associate Software Engineer at **[Wappier](https://github.com/wappier)**, as a Backend Developer, using Rust.
+- 🔭 I am Junior Software Engineer at **[Netcompany-Intrasoft]([https://github.com/wappier](https://www.netcompany-intrasoft.com/gdpr-consent-uni))**, as a Full Stack Developer, using Java.
 
-- :mortar_board: I’m thrird year undergraduate at  **[DIT](https://www.di.uoa.gr/)** 
+- :mortar_board: I am a fourth year undergraduate at  **[DIT](https://www.di.uoa.gr/)** 
 
-- 🌱 I’m currently learning **Rust Programming Language.**
+- 🌱 I’m currently learning **Java and Rust Programming Languages.**
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/drammos?tab=repositories)**
 
