@@ -6,17 +6,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am Junior Software Engineer at **[Netcompany-Intrasoft]([https://github.com/wappier](https://www.netcompany-intrasoft.com/gdpr-consent-uni))**, as a Full Stack Developer, using Java.
+- 🔭 I am Junior Software Engineer at **[Entesoft SA](https://www.entersoft.eu/)**, as a Mobile Developer, using C#(.Net).
 
-- :mortar_board: I am a fourth year undergraduate at  **[DIT](https://www.di.uoa.gr/)** 
+- :mortar_board: I am a undergraduate at  **[DIT](https://www.di.uoa.gr/)** 
 
-- 🌱 I’m currently learning **Java and Rust Programming Languages.**
+- 🌱 I’m currently learning **C# and Rust Programming Languages.**
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/drammos?tab=repositories)**
 
 - 📫 How to reach me **jrammos@outlook.com.gr**
 
-- ⚡ Fun fact **I like walking with friends. You’ll find me often at the gym.**
+- ⚡ Fun fact **I like walking with friends. You’ll find me often at the gym or at the boxing club**
 
 <br>
 
@@ -37,7 +37,7 @@
     <a href="https://www.mongodb.com/" target="_blank">  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a
     <a style="padding-right:8px;" href="https://www.mongodb.com" target="_blank"> <img src="https://img.icons8.com/?size=50&id=B1VZ9ZRl8Vwt&format=png"/> </a>
-
+    <a style="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png"/> </a>
 </p>
 
 ## 📊 My Github Stats
