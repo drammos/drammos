@@ -10,7 +10,7 @@
 
 - :mortar_board: I am a undergraduate at  **[DIT](https://www.di.uoa.gr/)** 
 
-- 🌱 I’m currently learning **C# and Rust Programming Languages.**
+- 🌱 I'm currently working in MyLink project. MyLink is a web application. The backend is implemented in Asp.Net Core(C#) and FrontEnd in React.js****
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/drammos?tab=repositories)**
 
