@@ -12,7 +12,7 @@
 
 - 🌱 I'm currently working in MyLink project. MyLink is a web application. The BackEnd is implemented in **Asp.Net Core(C#)** and FrontEnd in **React.js**.
 
-- 🎯 My next goal is to start programming on the blockchain with Rust and read the book **[Rust for Rustceans](https://www.amazon.com/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS)**
+- 🎯 My next goal is to start developing code on the **blockchain** with Rust and read the book **[Rust for Rustceans](https://www.amazon.com/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS)**
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/drammos?tab=repositories)**
 
