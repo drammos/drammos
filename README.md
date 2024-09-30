@@ -45,7 +45,7 @@
 
 ## 🐍 My GitHub Contribution Snake:
 
-![Snake animation](https://raw.githubusercontent.com/drammos/drammos/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/drammos/drammos/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 <br>
