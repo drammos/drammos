@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 **Junior Software Engineer** at **[Entersoft SA](https://www.entersoft.eu/)**, specializing in Mobile Development using **C# (.Net)**.
-
 - 🎓 **Undergraduate** at **[Department of Informatics and Telecommunications, UoA](https://www.di.uoa.gr/)**.
 
 - 🌱 Currently working on **MyLink**, a web application built with **Asp.Net Core (C#)** for the BackEnd and **React.js** for the FrontEnd. Check it out [here](https://github.com/drammos/MyLink).
