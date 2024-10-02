@@ -8,9 +8,11 @@
 
 - 🎓 **Undergraduate** at **[Department of Informatics and Telecommunications, UoA](https://www.di.uoa.gr/)**.
 
-- 🌱 Currently working on **MyLink**, a web application built with **Asp.Net Core (C#)** for the BackEnd and **React.js** for the FrontEnd. Check it out [here](https://github.com/drammos/MyLink).
+- 🌱 Currently working on Rust projects. One of them is EasyRes, a backend service built with Rust.
 
-- 🧑‍💻 Passionate about learning new technologies. My next challenge is diving into **Blockchain** development and mastering **Rust**. I'm starting with the book **[Rust for Rustaceans](https://www.amazon.com/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS)**.
+- 🧑‍💻 My most recent project is [MyLink](https://github.com/drammos/MyLink), a web application built with Asp.Net Core (C#) for the backend and React.js for the frontend.
+
+- 🧑‍💻 Passionate about learning new technologies. My next challenge is diving into **Blockchain** development and mastering **Rust**. I’m reading Rust for **[Rust for Rustaceans](https://www.amazon.com/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS)** to further my knowledge.
 
 - 👨‍💻 You can find all of my projects in **[My Repositories](https://github.com/drammos?tab=repositories)**.
 
