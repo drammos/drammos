@@ -1,47 +1,110 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dimitris</h1>
+<h1 align="center">Hi 👋, I'm Dimitris</h1>
+
+<h3 align="center">
+Backend Software Engineer | Rust Developer | Systems & Backend Engineering
+</h3>
 
 <br>
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-- 🎓 **Undergraduate** at **[Department of Informatics and Telecommunications, UoA](https://www.di.uoa.gr/)**.
+I'm a Backend Software Engineer currently working at **[RetinAI](https://retinai.com/)** in Bern, Switzerland, building backend systems with **Rust**.
 
-- 🌱 Currently working on Rust projects. One of them is EasyRes, a backend service built with Rust.
+My focus is on reliable software, backend architecture, and solving complex engineering problems. I enjoy working close to the system level, improving performance, and building scalable solutions.
 
-- 🧑‍💻 My most recent project is [MyLink](https://github.com/drammos/MyLink), a web application built with Asp.Net Core (C#) for the backend and React.js for the frontend.
+- 🎓 Bachelor's degree in **Computer Science** from the **[Department of Informatics and Telecommunications, UoA](https://www.di.uoa.gr/)**.
 
-- 🧑‍💻 Passionate about learning new technologies. My next challenge is diving into **Blockchain** development and mastering **Rust**. I’m reading Rust for **[Rust for Rustaceans](https://www.amazon.com/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS)** to further my knowledge.
+- 🦀 Working mainly with **Rust**, while exploring systems programming, performance optimization, and backend infrastructure.
 
-- 👨‍💻 You can find all of my projects in **[My Repositories](https://github.com/drammos?tab=repositories)**.
+- 🔎 Currently building a **search engine from scratch in Rust**, focusing on information retrieval, indexing, and efficient data processing.
 
-- 📫 How to reach me: **jrammos@outlook.com.gr**
+- 🚀 Creator of **MyLink**, a LinkedIn-inspired full-stack platform with profiles, connections, posts, job listings, applications, authentication, and messaging.
 
-- ⚡ Fun fact: I enjoy walking with friends, going to the gym, or boxing in my free time!
+- 🐧 Comfortable with Linux environments, databases, APIs, Git workflows, and backend infrastructure.
 
-<br>
+🌐 Portfolio: https://drammos.github.io/
 
-## 📊 My Latest Project:
-
-- **The MyLink Project**, a full-stack web application. You can view the project [here](https://github.com/drammos/MyLink).
+📫 Contact: **jrammos@outlook.com.gr**
 
 <br>
 
-## 🚀 Languages and Tools:
+## 🚀 Featured Projects
 
-<p align="left"> 
-    <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/40px-Rust_programming_language_black_logo.svg.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/40px-C_Programming_Language.svg.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/40px-ISO_C%2B%2B_Logo.svg.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=50&id=B1VZ9ZRl8Vwt&format=png"/> </a>
-    <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://img.icons8.com/?size=50&id=Fycm8TUhWmFU&format=png&color=000000"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-</p>
+### 🔎 Rust Search Engine
 
-<br>
+A search engine built from scratch in Rust, focused on understanding how modern search systems work internally.
+
+The project explores:
+- Text indexing and information retrieval
+- Search algorithms
+- Efficient data structures
+- Performance optimization
+- Systems programming concepts
+
+Repository:
+[Search Engine](https://github.com/drammos/search-engine)
+
+
+---
+
+### 🌐 MyLink - Professional Networking Platform
+
+A full-stack professional networking platform inspired by LinkedIn.
+
+Features:
+- User profiles
+- Connections between users
+- Posts and interactions
+- Job listings and applications
+- Messaging system
+- Authentication and authorization
+- Backend API architecture
+- Database design
+
+Technologies:
+- C#
+- ASP.NET Core
+- React
+- SQL
+
+Repository:
+[MyLink](https://github.com/drammos/MyLink)
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend Development
+- Rust
+- C#
+- ASP.NET Core
+- REST APIs
+- Backend Architecture
+- Authentication & Authorization
+- Distributed Systems Concepts
+
+### Frontend & Web Technologies
+- React
+- HTMX
+- Datastar
+- JavaScript
+
+### Databases & Storage
+- PostgreSQL
+- SQL
+- Redis
+- MongoDB
+
+### Systems & Infrastructure
+- Linux
+- Docker
+- Git
+- CI/CD
+- Cloud Infrastructure
+ 
+---
 
 ## 🐍 My GitHub Contribution Snake:
 ![Snake animation](https://raw.githubusercontent.com/drammos/drammos/output/github-contribution-grid-snake-dark.svg)
@@ -49,19 +112,19 @@
 
 <br>
 
-## 📊 My Github Stats:
+## 📊 GitHub Stats
 
-  <br/>
-    <img alt="Dimitris Rammos' Github Stats" src="https://github-readme-stats.vercel.app/api?username=drammos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    <img alt="Dimitris Rammos' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drammos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  <br/>
+<img alt="Dimitris Rammos GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drammos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 
-## 🌐 Connect with me:
+<img alt="Dimitris Rammos Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drammos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/dimitrisrammos/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://twitter.com/rammos_08" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://www.instagram.com/_rammos_/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008209203329" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/48px-2021_Facebook_icon.svg.png"/></a>
+<a href="https://www.linkedin.com/in/dimitrisrammos/" target="_blank">
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
 </p>
 
